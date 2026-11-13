@@ -1,6 +1,6 @@
 # mlops-pipeline
 
-Autor: elua
+Autor: Eluã Ramos Coutinho
 
 Projeto gerado como parte do exercício de modularização do curso de MLOps.
 
